@@ -69,4 +69,4 @@ Using SQL, PRoM, Iterop, and BIMP, the team discovered process behavior, analyze
 ## 🏁 Conclusion
 By combining **process mining**, **automation**, and **simulation**, this project demonstrated how BPI tools can drastically improve emergency response efficiency and reduce operational costs.
 
-📘 [Full Report (PDF)](YOUR_PDF_LINK_HERE)
+📘 [Full Report (PDF)](https://github.com/MintesnotYIMER/Flood/blob/main/Project-Report%20BPI.pdf)
